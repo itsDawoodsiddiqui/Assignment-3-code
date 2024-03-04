@@ -1,0 +1,23 @@
+#container{
+    border: 1px solid red;
+    padding: 10px;
+    margin: 20px;
+}
+h1{
+    border: 1px solid red;
+    padding: 10px;
+    margin: 20px;
+}
+p{
+    border: 1px solid red;
+    padding: 10px;
+    margin: 20px;
+}
+span{
+    border: 1px solid aqua;
+    padding: 2px;
+}
+#foo{
+    border: 1px solid purple;
+    padding: 1px;
+}
